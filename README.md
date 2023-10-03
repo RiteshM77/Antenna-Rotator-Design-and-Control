@@ -1,9 +1,3 @@
-Project Title: **Antenna Rotator Design and Control with Arduino Mega 2560**
-
-**Project Description:**
-
-**Overview:**
-The "Antenna Rotator Design and Control" project aims to create an automated system for precisely controlling the orientation of an antenna. By using an Arduino Mega 2560 and a variety of components such as a servo motor, toggle switch, push buttons, potentiometer, LCD display, and RF433 MHz transmitter and receiver modules, this project offers a versatile and user-friendly solution for antenna positioning.
 
 **Features:**
 
